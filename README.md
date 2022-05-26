@@ -6,6 +6,6 @@
 ## How to run
 
 ```bash
-cd ebpf/examples/
+cd 
 go run -exec sudo ./fentry
 ```
